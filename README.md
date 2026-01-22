@@ -55,7 +55,7 @@ python context.py \
 
 ## Schema Snapshot
 
-![Database Schema](schema.png)
+![Database Schema](./schema.png)
 
 ## Tech Stack
 *   **Language:** Python 3.10+
